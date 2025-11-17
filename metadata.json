@@ -1,0 +1,5 @@
+{
+  "name": "AI Tattoo Design Studio",
+  "description": "Upload a tattoo image to analyze its style, recreate it as a printable 2D design, refine it with an AI chatbot, and generate a video simulation of the final tattoo on skin.",
+  "requestFramePermissions": []
+}
